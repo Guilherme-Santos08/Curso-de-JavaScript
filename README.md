@@ -3,6 +3,10 @@
  
  ---
  [Acesse o canal do Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
- -
- [Acesse o site do Curo em Vídeo](www.cursoemvideo.com/)
+ ---
+ [Acesse o site do Curso em Vídeo](www.cursoemvideo.com/)
+ ---
  
+ 
+ 
+ https://github.com/gustavoguanabara/javascript
