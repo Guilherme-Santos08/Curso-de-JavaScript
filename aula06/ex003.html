@@ -19,10 +19,10 @@
   <h1>olá, mundo!</h1> <!--Isso é um comentário em HTML-->
   <p>Ja me livrei da maldição</p>
   <script>
-    var n1 = window.prompt('Digite um número')// String
-    var n2 = window.prompt('Digite outro número')// String
+    var n1 = Number(window.prompt('Digite um número'))// String
+    var n2 = Number(window.prompt('Digite outro número'))// String
     var s = n1+n2
-    window.alert('A soma dos valores é ' + s) // Concatenação
+    window.alert('A soma dos valores é ' + String(s)) // Concatenação
     // (number + number) Para adição
     // (string + string) Para concatenação
   </script>
