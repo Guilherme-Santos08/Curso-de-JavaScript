@@ -1,3 +1,5 @@
+// Condições
+
 var agora = new Date() // hora do pc
 var diaSem = agora.getDay() // dia da semana 
 

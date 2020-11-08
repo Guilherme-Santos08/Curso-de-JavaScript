@@ -1,3 +1,5 @@
+// Condições
+
 var idade = 64
 console.log(`Você tem ${idade} anos.`)
 
