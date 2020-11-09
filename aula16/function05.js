@@ -1,6 +1,6 @@
 function fatorial (n) {
        n (n == 1)  {
-              
+
        }
 }
 
